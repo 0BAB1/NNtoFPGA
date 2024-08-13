@@ -1,40 +1,40 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.7">
   <diagram name="Page-1" id="UF6dOupk7BY_kWfTRVPH">
-    <mxGraphModel dx="1677" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2367" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="erppURnjToZncB2K3see-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="erppURnjToZncB2K3see-1" target="erppURnjToZncB2K3see-3">
+        <mxCell id="erppURnjToZncB2K3see-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="erppURnjToZncB2K3see-1" target="erppURnjToZncB2K3see-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-1" value="&lt;div&gt;Weights&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-1" value="&lt;div&gt;Weights&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="100" y="484.97" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-3" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-3" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="268" y="399.97" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="erppURnjToZncB2K3see-3">
+        <mxCell id="erppURnjToZncB2K3see-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="erppURnjToZncB2K3see-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="424.97" as="sourcePoint" />
             <mxPoint x="310" y="539.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-9" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-9" value="Input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="409.97" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erppURnjToZncB2K3see-3" target="erppURnjToZncB2K3see-11">
+        <mxCell id="erppURnjToZncB2K3see-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="erppURnjToZncB2K3see-3" target="erppURnjToZncB2K3see-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="318" y="424.63000000000005" as="sourcePoint" />
             <mxPoint x="380" y="424.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erppURnjToZncB2K3see-11" target="erppURnjToZncB2K3see-15">
+        <mxCell id="erppURnjToZncB2K3see-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="erppURnjToZncB2K3see-11" target="erppURnjToZncB2K3see-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-11" value="&lt;span lang=&quot;fr&quot; class=&quot;BxUVEf ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt; &lt;b&gt;Σ &lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-11" value="&lt;span lang=&quot;fr&quot; class=&quot;BxUVEf ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt; &lt;b&gt;Σ &lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="399.97" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="erppURnjToZncB2K3see-13" target="erppURnjToZncB2K3see-11">
+        <mxCell id="erppURnjToZncB2K3see-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="erppURnjToZncB2K3see-13" target="erppURnjToZncB2K3see-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="364.94000000000005" as="sourcePoint" />
             <mxPoint x="400" y="339.94000000000005" as="targetPoint" />
@@ -44,24 +44,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erppURnjToZncB2K3see-13">
+        <mxCell id="erppURnjToZncB2K3see-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="erppURnjToZncB2K3see-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="424.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-13" value="&lt;div&gt;+&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-13" value="&lt;div&gt;+&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="560" y="399.97" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erppURnjToZncB2K3see-15" target="erppURnjToZncB2K3see-13">
+        <mxCell id="erppURnjToZncB2K3see-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="erppURnjToZncB2K3see-15" target="erppURnjToZncB2K3see-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="394.97" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-23" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-23" value="Output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="409.97" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="erppURnjToZncB2K3see-24" target="erppURnjToZncB2K3see-9">
+        <mxCell id="erppURnjToZncB2K3see-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="erppURnjToZncB2K3see-24" target="erppURnjToZncB2K3see-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="480" as="targetPoint" />
             <Array as="points">
@@ -69,17 +69,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-24" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-24" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="85" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-25" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="erppURnjToZncB2K3see-1">
+        <mxCell id="erppURnjToZncB2K3see-25" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="erppURnjToZncB2K3see-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="145" y="610" as="sourcePoint" />
             <mxPoint x="430" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erppURnjToZncB2K3see-28" value="Activation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="erppURnjToZncB2K3see-28" value="Activation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="412.47" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="n_ZfL3EqwfRgf9f3S2Vr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_ZfL3EqwfRgf9f3S2Vr-1" target="erppURnjToZncB2K3see-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n_ZfL3EqwfRgf9f3S2Vr-1" value="Bias" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
